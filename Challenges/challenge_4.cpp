@@ -17,4 +17,6 @@ int main() {
     totalPrice += totalPrice * 0.1;
 
     cout << "Total price is: " << totalPrice << endl;
+
+    return 0;
 }
