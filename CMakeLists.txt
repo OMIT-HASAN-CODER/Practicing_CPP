@@ -16,4 +16,5 @@ add_executable(Practicing_CPP main.cpp
         Challenges/challenge_10.cpp
         Challenges/challenge_11.cpp
         Challenges/challenge_12.cpp
-        Challenges/challenge_13.cpp)
+        Challenges/challenge_13.cpp
+        Challenges/challenge_14.cpp)
